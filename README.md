@@ -3,4 +3,4 @@
 Software Fault Prediction model has been developed using Sine-Cosine Algorithm as Feature Selector. The performance based on Accuracy, AUC-ROC and Average Precision is compared with Genetic Algorithm and Cuckoo Search based similar model. We have taken reuslts using 4 diffrent ML classifiers - Random Forest, Naive Bayes, KNN and Support Vector Machine.
 
 For more information:
-https://ieeexplore.ieee.org/abstract/document/9609148?casa_token=nDWumkHEE8UAAAAA:2mD7RZOe_BvNyeGtzNjA_yYaWkMTYj-I2SQ__-PUZp405UgtR6bLRtmWQoS6VsGm8yHDdt362uM
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9609148&casa_token=q_LDaFBilcAAAAAA:EDXosNGGNYlHEPnqor_BN6on0rdsafI2RaPgTpiDLifFgrJiT65bRUD32lbx2VXtbv8ur90cJX4&tag=1
